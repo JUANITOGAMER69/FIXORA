@@ -1,0 +1,8 @@
+theme: jekyll-theme-primer
+
+exclude:
+  - node_modules
+  - Backend/node_modules
+  - fixora-frontend/node_modules
+  - .github
+  - .gitignore
